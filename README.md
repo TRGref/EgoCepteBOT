@@ -1,4 +1,4 @@
-# EgoCepteBOT Ego Cep'te Telegram Botu
+# 🚌 EgoCepteBOT Ego Cep'te Telegram Botu
 
 EgoCepteBOT, Ankara Büyükşehir Belediyesi EGO Genel Müdürlüğü'nün otobüs takip sisteminden veri çekerek kullanıcılara gerçek zamanlı otobüs durağı ve hat bilgileri sunan bir Telegram botudur. Bu bot sayesinde, favori duraklarınızı kaydedebilir, otobüslerin tahmini varış sürelerini öğrenebilir ve toplu taşıma deneyiminizi kolaylaştırabilirsiniz.
 
